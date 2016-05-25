@@ -3,7 +3,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta name="baidu-site-verification" content="73dMqCk7kD" />
-    <title>web网址导航-haoweb</title>
+    <title>web网址导航-haoweb.top</title>
     <meta content="telephone=no" name="format-detection">
     <meta name="keywords" content="web网址大全,web上网导航,web网址导航,php,前端开发,nodejs">
     <meta name="description" content="收集web学习资源,php,前端开发,nodejs,学习手册,常用网址收录">
